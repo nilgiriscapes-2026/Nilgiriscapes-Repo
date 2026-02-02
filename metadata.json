@@ -1,0 +1,5 @@
+{
+  "name": "Nilgiriscapes Digital Archive",
+  "description": "An interactive digital archive exploring the ecological and cultural landscape of the Nilgiris Biosphere Reserve, with data dynamically sourced from a Google Sheet.",
+  "requestFramePermissions": []
+}
